@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **C++**
 
+- 😜 Intermediate in web development
+
 - 📫 How to reach me **muhammadamiriqmal@graduate.utm.my**
 
 
